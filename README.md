@@ -1,12 +1,11 @@
-# Capstone-Investment-and-Bond-Calculator
+apstone-Investment-and-Bond-Calculator
 
 ## Level 1 SE Investment and Bond Calculator
 
 ## Project 1 - Variables and Control Structures**
 
 ** Task assumes that you have been approached by a small financial company and asked to create a program that allows the user to access two
-different financial calculators: an investment calculator and a home loan.
-** repayment calculator###
+different financial calculators: an investment calculator and a home loan repayment calculator.
 
 ** User chooses between options for Investment or Bond.
 
